@@ -1,7 +1,7 @@
 # EvilCrow RF Control
 
-![GitHub repo size](https://img.shields.io/github/repo-size/marceloapd/evil-crow-rf-control/?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/marceloapd/evil-crow-rf-control/?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/marceloapd/evil-crow-rf-control?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/marceloapd/evil-crow-rf-control?style=for-the-badge)
 
 <img src="insira_o_link_da_imagem_aqui" style="width:500px" alt="exemplo imagem">
 
