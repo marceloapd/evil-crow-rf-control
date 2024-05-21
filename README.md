@@ -46,6 +46,7 @@ npm install
     WIFI_PASSWORD=senha_da_rede_wifi
     DEVICE_URL=url_do_dispositivo_evilcrow_rf
     RAW_SIGNAL=sinal_bruto_para_abrir_o_portao
+    AUTHORIZED_PHONES: 556100000000@c.us
     ```
 
 5. Adicione `start_evil-crow-rf-control.bat` à pasta de inicialização do Windows para garantir que o script seja executado automaticamente ao iniciar o sistema. O arquivo `.bat` deve ser colocado em `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`.
